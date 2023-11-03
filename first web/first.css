@@ -1,0 +1,131 @@
+h1{
+    background-color: rgba(76,79,174,255);
+    color: white;
+    text-align: center;
+    font-family: Sans-serif	;
+    margin-bottom: 0px;
+    
+}
+.middle{
+    background-color: rgba(237,237,237,255);
+    padding-top: 10px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+  font-family: Sans-serif	;
+  font-size: 15px;
+    
+    
+    
+    
+}
+.a3s{
+    align-items: center;
+}
+.p{
+    
+    
+    text-align: center;
+}
+
+.A03s{
+    width: 120px;
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+    
+}
+
+.A03s{
+    width: 120px;
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;}
+
+    .Apple11{
+        width: 120px;
+        height: 200px;
+        background-color: white;
+        padding: 20px;
+        margin: 20px;
+        align-items: center;}
+
+        .Apple13{
+            width: 120px;
+            height: 200px;
+            background-color: white;
+            padding: 20px;
+            margin: 20px;
+            align-items: center;}
+          
+            .Huawie{
+                width: 120px;
+                height: 200px;
+                background-color: white;
+                padding: 20px;
+                margin: 20px;
+                align-items: center;} 
+                .Applese{
+                    width: 120px;
+                    height: 200px;
+                    background-color: white;
+                    padding: 20px;
+                    margin: 20px;
+                    align-items: center;}                        
+.addtocart{
+    background-color: rgba(76,79,174,255);
+    padding: 3px;
+    color: white;
+    margin-left: 20%;
+    border: none;
+
+}
+.foot{
+    background-color: rgba(228,175,35,255);
+    padding-top: 0px;
+    font-family: Sans-serif	;
+}
+.foot p{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 40px;
+}
+ .carrt{
+    padding-left:60px ;
+    padding-bottom:50px ;
+    padding-right: 50px;
+    
+    width: 70px;
+    height: 70px;
+}
+.item {
+    margin-left: 60px;
+    margin-top: 0px;
+    display: flex;
+}
+ .items{
+    margin-left: 70px;
+    font-size: 10px;
+    
+}
+.close{
+    width: 10px;
+    height: 10px;
+    padding-left: 20px;
+}
+.closee{
+    width: 10px;
+    height: 10px;
+    padding-left: 20px;
+}
+.oll{
+    margin: 0px;
+    padding-left: 10px;
+}
